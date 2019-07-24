@@ -1,0 +1,11 @@
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/bin/Debug/netcoreapp2.2/AzureVisionAPI.deps.json
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/bin/Debug/netcoreapp2.2/AzureVisionAPI.runtimeconfig.json
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/bin/Debug/netcoreapp2.2/AzureVisionAPI.runtimeconfig.dev.json
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/bin/Debug/netcoreapp2.2/AzureVisionAPI.dll
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/bin/Debug/netcoreapp2.2/AzureVisionAPI.pdb
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.csprojAssemblyReference.cache
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.csproj.CoreCompileInputs.cache
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.AssemblyInfoInputs.cache
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.AssemblyInfo.cs
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.dll
+/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/Debug/netcoreapp2.2/AzureVisionAPI.pdb

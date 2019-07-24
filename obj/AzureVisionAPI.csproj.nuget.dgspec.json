@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dvalecillos/Code/DotNet/AzureVisionAPI/AzureVisionAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/dvalecillos/Code/DotNet/AzureVisionAPI/AzureVisionAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dvalecillos/Code/DotNet/AzureVisionAPI/AzureVisionAPI.csproj",
+        "projectName": "AzureVisionAPI",
+        "projectPath": "/Users/dvalecillos/Code/DotNet/AzureVisionAPI/AzureVisionAPI.csproj",
+        "packagesPath": "/Users/dvalecillos/.nuget/packages/",
+        "outputPath": "/Users/dvalecillos/Code/DotNet/AzureVisionAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dvalecillos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
