@@ -31,7 +31,7 @@ namespace StampinUp.Azure.Vision
             HttpResponseMessage response;
 
             ImageUrl imageUrl = new ImageUrl {
-                Url = "https://stampinup-content.azureedge.net/images/EC/147153G.jpg"
+                Url = "https://github.com/dilmerv/AzureVisionAPI/blob/master/images/IMG_5301.JPG"
             };
             
             // Request body
