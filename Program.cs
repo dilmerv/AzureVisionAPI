@@ -31,7 +31,7 @@ namespace StampinUp.Azure.Vision
             HttpResponseMessage response;
 
             ImageUrl imageUrl = new ImageUrl {
-                Url = "https://github.com/dilmerv/AzureVisionAPI/blob/master/images/IMG_5301.JPG"
+                Url = "https://github.com/dilmerv/AzureVisionAPI/blob/master/images/IMG_5301.JPG?raw=true"
             };
             
             // Request body
