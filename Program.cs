@@ -43,12 +43,13 @@ namespace StampinUp.Azure.Vision
                response = await client.PostAsync(uri, content);
 
                string result = await response.Content.ReadAsStringAsync();
+               Console.WriteLine(result);
             }
         }
     }
 
-    public class ImageUrl {
+    public class ImageUrl 
+    {
         public string Url { get; set; }
-        //{\"url\":\"http:\/\/example.com\/images\/test.jpg\"}
     }
 }
